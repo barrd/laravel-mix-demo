@@ -1,0 +1,19 @@
+$color: red;
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: $color;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+@keyframes foo {
+  to {
+    background: red;
+  }
+}
+
+#selector {
+  animation: foo 2s;
+}
