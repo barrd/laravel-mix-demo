@@ -2,8 +2,7 @@
 
 ## Install
 
-npm init -y
-npm install laravel-mix --save-dev
+npm install
 
 ## Run w/ BrowserSynch
 
