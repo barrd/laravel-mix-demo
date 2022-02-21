@@ -1,5 +1,7 @@
 # Basic Instructions
 
+https://laravel-mix.com/docs/6.0/installation
+
 ## Install
 
 npm install
