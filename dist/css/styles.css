@@ -1,1 +1,1 @@
-h1{font-family:Arial,Helvetica,sans-serif;color:red}h2{font-family:"Times New Roman",Times,serif}@-webkit-keyframes foo{to{background:red}}@keyframes foo{to{background:red}}#selector{-webkit-animation:foo 2s;animation:foo 2s}
+h1{font-family:Arial,Helvetica,sans-serif;color:#000}h2{font-family:"Times New Roman",Times,serif}@-webkit-keyframes foo{to{background:red}}@keyframes foo{to{background:red}}#selector{-webkit-animation:foo 2s;animation:foo 2s}
