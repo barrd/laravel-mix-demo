@@ -22,10 +22,6 @@ mix
   })
   .setPublicPath("dist")
   .version();
-// .browserSync(devUrl);
-// .browserSync({
-//   proxy: devUrl,
-// });
 
 mix
   .sass("src/sass/styles.scss", "css", {
@@ -36,10 +32,6 @@ mix
   })
   .setPublicPath("dist")
   .version();
-// .browserSync(devUrl);
-// .browserSync({
-//   proxy: devUrl,
-// });
 
 // ------------------------------------------------------
 // let fs = require("fs");
